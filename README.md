@@ -5,6 +5,18 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 osTicket is a popular open-source ticketing system designed for IT help desks and customer support teams. It enables organizations to efficiently manage, track, and resolve user issues. Gaining experience in installing and configuring osTicket is beneficial for IT Help Desk Administrators, as it showcases hands-on expertise in ticketing systems.
 
+Prerequisites
+
+Before installing osTicket, ensure you have the following:
+
+A Windows machine (or Linux/Mac with similar configurations)
+
+XAMPP (which includes Apache, MySQL, and PHP)
+
+The latest version of osTicket
+
+A web browser
+
 <h2>Video Demonstration</h2>
 
 - ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
