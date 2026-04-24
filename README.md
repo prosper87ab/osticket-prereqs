@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>IAM Homelabs</h1>
 osTicket is a popular open-source ticketing system designed for IT help desks and customer support teams. It enables organizations to efficiently manage, track, and resolve user issues. Gaining experience in installing and configuring osTicket is beneficial for IT Help Desk Administrators, as it showcases hands-on expertise in ticketing systems.
 
 Prerequisites
