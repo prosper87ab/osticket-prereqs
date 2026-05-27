@@ -1,7 +1,10 @@
 # Active Directory Home Lab
 
 ## 📌 Overview
-This project simulates a real-world enterprise Active Directory environment where I implemented identity and access management operations including user provisioning, group management, and policy enforcement.
+### Phase 4: Bi-Directional Governance & Cloud Writeback
+* Deployed **Self-Service Password Reset (SSPR)** within Microsoft Entra ID utilizing Premium P2 tenant features.
+* Engineered **Password Writeback** using Entra Connect Cloud Sync agents to intercept cloud-initiated password alterations and commit them down to on-premises domain security hives in real-time.
+* Successfully validated zero-trust remote self-service lifecycle by resetting credentials via a cloud portal and immediately using them to unlock an on-premises domain-joined physical workstation (`PC01`).
 
 ## 🏗 Lab Architecture
 - 1 Domain Controller (Windows Server)
